@@ -25,5 +25,4 @@ Django: Web framework for building the application.
 HTML/CSS/JavaScript: Frontend technologies for user interface and interactivity.
 SQLite: Database system used for storing application data.
 Contributors
-Your Name - Role
-Contributor's Name - Role (if applicable)
+Bomma Prashanth
