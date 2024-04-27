@@ -13,7 +13,12 @@ Order Management: Allows users to place and manage customer orders.
 Setup Instructions
 Clone the repository.
 Install Python and Django if not already installed.
-Usage Installation: Clone the repository and install dependencies using pip. bash Copy code git clone https://github.com/PrashanthBomma5/Inventory.git cd Inventory pip install -r requirements.txt
+Installation: Clone the repository and install dependencies using pip.
+bash
+Copy code
+git clone https://github.com/PrashanthBomma5/Inventory.git
+cd  Inventory
+pip install -r requirements.txt
 Navigate to the project directory and install dependencies using pip install -r requirements.txt.
 Run migrations to create the database schema: python manage.py migrate.
 Create a superuser for accessing the admin panel: python manage.py createsuperuser.
